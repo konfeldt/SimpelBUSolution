@@ -8,8 +8,3 @@ why not have an automatic script to do this for you?
 Original: <a href="http://www.konfeldt.com/" style="color:#00a000">konfeldt.com</a>
 
 
-License
-
-Backupsolution is released under GNU General Public License, version 3 (GPLv3)
-
-(http://www.opensource.org/licenses/gpl-3.0.html)
