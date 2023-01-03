@@ -1,4 +1,4 @@
-Easy BackupSolution
+Easy WordPress BackupSolution
 
 Basically there are two things you need to backup: all your server files and MySQL databases.
 why not have an automatic script to do this for you?
